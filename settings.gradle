@@ -1,0 +1,4 @@
+rootProject.name = 'Exersize III'
+include 'MTG Card Reader'
+findProject(':MTG Card Reader')?.name = 'Exersize III'
+
